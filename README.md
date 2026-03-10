@@ -14,19 +14,14 @@ Unique active days per user
 Actions per day
 Total hours active per day
 Total hours across all accounts
+Total Active Hours Per Day
+These help highlight usage spikes, trends, and patterns in development or testing activity.
 
 ###  Key Findings
 A majority of activity comes from a primary Stitch test account.
 Salesforce system accounts generate consistent automated events.
 Combined user activity totals 900+ hours across the timeframe.
 Several dates show very high action counts due to automation or bulk processes.
-
-###  Visualizations
-Two charts are included in the notebook:
-
-###  Daily Action Counts
-Total Active Hours Per Day
-These help highlight usage spikes, trends, and patterns in development or testing activity.
 
 ###  Purpose
 This analysis provides visibility into:
